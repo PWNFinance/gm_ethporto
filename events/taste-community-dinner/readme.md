@@ -48,8 +48,8 @@ name: TASTE³ Community Dinner @ ETHPorto Special Edition Powered by Poap Studio
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  - TASTE3 - Appetite for community @ EthPorto Special Edition 
-  - About us: We are a group of friends breaking bread and sharing Blockchain war stories. Every week we host a dinner for up to 20 Web3 professionals (depending on the venue) in different locations around Lisbon. 
+  - TASTE3 - Appetite for community @ EthPorto Special Edition
+  - About us: We are a group of friends breaking bread and sharing Blockchain war stories. Every week we host a dinner for up to 20 Web3 professionals (depending on the venue) in different locations around Lisbon.
   - We really look forward to welcoming you all at this Porto special edition! What's left to say besides LFDinner 🍲
 
 
