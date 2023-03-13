@@ -72,7 +72,7 @@ tickets: https://www.eventbrite.com/e/taste3-community-dinner-ethporto-special-e
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: 35 
+price: 45 
 
 # The name of the venue where the event will be held. Can be left empty.
 venue: TBA - near Hard club
