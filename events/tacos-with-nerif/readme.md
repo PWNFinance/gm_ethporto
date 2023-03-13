@@ -49,6 +49,7 @@ name: Tacos with Nerif & frens
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   - Join us for an evening of networking, fun, tacos and margaritas, organized by Nerif, AllBridge, Hacken, and Web3GoLisboa.
+  - You will receive the location of this secret event after having minted the NFT ticket. Porto edition.
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
